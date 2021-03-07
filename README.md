@@ -1,5 +1,5 @@
 # Upload-CSV-File-
-Set up To set up the project you need to install all the node modules in both of the projects (Nodejs and Reactjs).
+Set up To set up the project you need to install all the node modules in both of the projects (Nodejs and Reactjs).\n
 $ cd app 
 $ npm install
 $ cd ../server
